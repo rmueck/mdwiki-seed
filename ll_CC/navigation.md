@@ -6,7 +6,6 @@
 
 
 [Linux]()
-
   * # General
   * [SubMenu Item 1](pages/subitem1.md)
   * [SubMenu Item 2](pages/subitem2.md)
@@ -18,7 +17,6 @@
   * [SubMenu Item 3](pages/subitem3.md)
 
 [AIX]()
-
   * # General
   * [SubMenu Item 1](pages/subitem1.md)
   * [SubMenu Item 2](pages/subitem2.md)
@@ -30,7 +28,6 @@
   * [SubMenu Item 3](pages/subitem3.md)
 
 [Puppet]()
-
   * # General
   * [SubMenu Item 1](pages/subitem1.md)
   * [SubMenu Item 2](pages/subitem2.md)
@@ -52,9 +49,7 @@
   - - - -
   * # SubMenu Heading 3
   * [SubMenu Item 3](pages/subitem3.md)
-
-
-
+- - - -
 [Menu Item 3](pages/item3.md)
 
 
