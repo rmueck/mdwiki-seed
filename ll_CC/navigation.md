@@ -37,6 +37,18 @@
   * # SubMenu Heading 3
   * [SubMenu Item 3](subitem3.md)
 
+[Git]()
+
+  * # General
+  * [Basics](subitem1.md)
+  * [SubMenu Item 2](subitem2.md)
+  - - - -
+  * # Gitlab Workflow
+  * [Create a Branch](subitem3.md)
+  * [Extending FSs](subitem3.md)
+  - - - -
+  * # SubMenu Heading 3
+  * [SubMenu Item 3](subitem3.md)
 
 [Menu Item 2](item2.md)
 - - - -
