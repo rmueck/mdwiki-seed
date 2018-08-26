@@ -7,8 +7,9 @@
   * [SubMenu Item 1](subitem1.md)
   * [SubMenu Item 2](subitem2.md)
   - - - -
-  * # SubMenu Heading 2
-  * [SubMenu Item 3](subitem3.md)
+  * # LVM
+  * [Managing VGs](subitem3.md)
+  * [Managing LVs](subitem3.md)
   - - - -
   * # SubMenu Heading 3
   * [SubMenu Item 3](subitem3.md)
@@ -19,8 +20,19 @@
   * [SubMenu Item 1](subitem1.md)
   * [SubMenu Item 2](subitem2.md)
   - - - -
-  * # SubMenu Heading 2
-  * [SubMenu Item 3](subitem3.md)
+  * # LVM
+  * [Extending VGs](subitem3.md)
+  * [Extending FSs](subitem3.md)
+  - - - -
+[Puppet]()
+
+  * # General
+  * [Modules](subitem1.md)
+  * [SubMenu Item 2](subitem2.md)
+  - - - -
+  * # Gitlab Workflow
+  * [Create a Branch](subitem3.md)
+  * [Extending FSs](subitem3.md)
   - - - -
   * # SubMenu Heading 3
   * [SubMenu Item 3](subitem3.md)
