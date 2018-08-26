@@ -1,15 +1,6 @@
-<!--
-  -- Name of your wiki
-  -- Do NOT remove the leading `#` character.
-  -->
-
-# Your wiki name
+# rmueck wiki
 
 
-<!--
-  -- Default theme
-  -- (Read: http://dynalon.github.io/mdwiki/#!customizing.md#Theme_chooser)
-  -->
 
 [gimmick:theme](spacelab)
 
@@ -19,10 +10,9 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
-[About](pages/about.md)
-[Download](pages/download.md)
+<!-- [About](pages/about.md) -->
+<!-- [Download](pages/download.md) -->
 
-<!-- A more complex navigation example: ----------------------------------------
 
 [Menu Item 1]()
 
@@ -40,7 +30,6 @@
 
 [Menu Item 3](pages/item3.md)
 
----------------------------------------------------------------------------- -->
 
 <!--
   -- Change the Language
@@ -60,6 +49,4 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
-<!--
 [gimmick:themechooser](Choose theme)
--->
