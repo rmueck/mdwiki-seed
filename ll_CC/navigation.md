@@ -1,10 +1,6 @@
 # rmueck wiki
 
 
-
-[gimmick:theme](spacelab)
-
-
 [Menu Item 1]()
 
   * # SubMenu Heading 1
