@@ -8,7 +8,7 @@
   * [SubMenu Item 2](subitem2.md)
   - - - -
   * # LVM
-  * [Managing VGs](subitem3.md)
+  * [Managing VGs](pages/linux/lvm_vg.md)
   * [Managing LVs](subitem3.md)
   - - - -
   * # SubMenu Heading 3
@@ -41,6 +41,8 @@
 
   * # General
   * [Basics](subitem1.md)
+  * [Aliases](pages/git/aliases.md)
+  * [Config](pages/git/config.md)
   * [SubMenu Item 2](subitem2.md)
   - - - -
   * # Gitlab Workflow
